@@ -1,2 +1,2 @@
-*.html linguist-vendored
-*.gs linguist-language=Python
+$ cat .gitattributes
+*.rb linguist-language=python
