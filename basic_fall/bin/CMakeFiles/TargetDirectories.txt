@@ -1,0 +1,3 @@
+C:/Users/JiaQi/Desktop/Nuitrack SDK/Examples/basic_fall/bin/CMakeFiles/nuitrack_console_sample.dir
+C:/Users/JiaQi/Desktop/Nuitrack SDK/Examples/basic_fall/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/JiaQi/Desktop/Nuitrack SDK/Examples/basic_fall/bin/CMakeFiles/ZERO_CHECK.dir

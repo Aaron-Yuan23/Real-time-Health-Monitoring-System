@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+C:/Users/JiaQi/Desktop/Nuitrack SDK/Examples/basic_fall/CMakeLists.txt
+C:/Users/JiaQi/Desktop/Nuitrack SDK/Examples/basic_fall/bin/CMakeFiles/3.13.0/CMakeCCompiler.cmake
+C:/Users/JiaQi/Desktop/Nuitrack SDK/Examples/basic_fall/bin/CMakeFiles/3.13.0/CMakeCXXCompiler.cmake
+C:/Users/JiaQi/Desktop/Nuitrack SDK/Examples/basic_fall/bin/CMakeFiles/3.13.0/CMakeRCCompiler.cmake
+C:/Users/JiaQi/Desktop/Nuitrack SDK/Examples/basic_fall/bin/CMakeFiles/3.13.0/CMakeSystem.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/CMakeCInformation.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/CMakeCXXInformation.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/CMakeGenericSystem.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/CMakeInitializeConfigs.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/CMakeLanguageInformation.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/CMakeRCInformation.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/CMakeSystemSpecificInformation.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/Compiler/MSVC-C.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/Compiler/MSVC-CXX.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/Platform/Windows-MSVC-C.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/Platform/Windows-MSVC.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/Platform/Windows.cmake
+C:/Users/JiaQi/Desktop/RealSense_Camera/cmake-3.13.0-win64-x64/share/cmake-3.13/Modules/Platform/WindowsPaths.cmake

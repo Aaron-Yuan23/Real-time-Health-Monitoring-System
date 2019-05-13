@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\JiaQi\Desktop\Nuitrack SDK\Examples\basic_fall\bin\CMakeFiles\c2ee3f5795060b1081b41e7f6d40c17e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{15B682CC-ED41-3FF4-BA79-A00716F4193E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
