@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\workspace\\FallDetection\\src\\fall_detection_model-1000"
+all_model_checkpoint_paths: "C:\\workspace\\FallDetection\\src\\fall_detection_model-1000"
