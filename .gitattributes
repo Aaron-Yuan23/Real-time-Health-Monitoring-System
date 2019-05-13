@@ -1,2 +1,2 @@
 *.html linguist-vendored
-*.TeX linguist-vendored
+*.gs linguist-language=Python
