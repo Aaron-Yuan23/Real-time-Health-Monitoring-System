@@ -1,0 +1,4 @@
+0.000668 : open: 50 -- Error opening file: /dev/serial/by-id/usb-03eb_XeThru_Serial-if00
+system error: No such file or directory
+
+0.001197 : module_io::open returned error

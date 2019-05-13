@@ -1,0 +1,10 @@
+0.000870 : Error parsing incoming data: lost bytes
+0.001040 : Error parsing incoming data: lost bytes
+0.001075 : Error parsing incoming data: CRC error
+0.001106 : Error parsing incoming data: CRC error
+0.001127 : Error parsing incoming data: CRC error
+0.001146 : Error parsing incoming data: lost bytes
+0.001166 : Error parsing incoming data: lost bytes
+0.001183 : Error parsing incoming data: CRC error
+0.001200 : Error parsing incoming data: CRC error
+2.206316 : Timeout waiting for response
