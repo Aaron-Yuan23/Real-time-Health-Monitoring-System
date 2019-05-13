@@ -1,0 +1,9 @@
+standing: 8.2 ft away from sensor all the way until 4.105 ft.
+width: 6.3 ft.
+camera height: 2.6 ft.
+
+sitting: 8.2 ft away from sensor all the way until 4.105 ft.
+width: 6.3 ft.
+camera height: 2.6 ft.
+
+laying down: in the middle.
